@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "TOMORI CARDS",
+    "slug": "tomori-cards-004",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "TOMORI CARDS",
+      "shortName": "TOMORI CARDS",
+      "lang": "ja",
+      "backgroundColor": "#FBF8F1",
+      "themeColor": "#4F46E5"
+    },
+    "experiments": {
+      "baseUrl": "/tomori-cards-004"
+    }
+  }
+}
